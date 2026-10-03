@@ -1,90 +1,106 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ayush%20Kumar&fontSize=58&fontColor=00f0ff&fontAlignY=38&desc=Cyber%20%C3%97%20AI%20%C3%97%20Algorithms&descSize=20&descColor=9d8cff&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Ayush%20Kumar&fontSize=54&fontColor=00f0ff&fontAlignY=40&desc=Optimization%20%C2%B7%20Quantum%20Algorithms%20%C2%B7%20Applied%20AI%20%C2%B7%20Security&descSize=17&descColor=9d8cff&descAlignY=62" width="100%" alt="header" />
 
 <a href="https://github.com/ayush-ganitam">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1100&color=00F0FF&center=true&vCenter=true&width=720&lines=Ga%E1%B9%87itam+m%C5%ABrdhani+sthitam;Engineering+student+%7C+CSE-IoT+%40+DSCE;Building+interview+fraud+forensics+with+AI+%2B+cyber;Graph+algorithms+%7C+CTF+%7C+x86-64+assembly;ESP32+%E2%86%92+Cloud+%E2%86%92+LLM+pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&lines=Ga%E1%B9%87itam+m%C5%ABrdhani+sthitam;CSE+%7C+IoT+%2B+Cybersecurity+%40+DSCE;Optimization+%7C+Quantum+Algorithms+%7C+Applied+AI;Cyber-physical+and+forensic+security+systems" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/ayushkumar55" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ayush.research.cse@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/ayush-ganitam" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/email-%2300f0ff.svg?&style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
 
 </div>
 
 ---
 
-## `> whoami`
+## About
 
-```text
-name      : Ayush Kumar  (Ak)
-handle    : ayush-ganitam  (gaṇitam: mathematics, the science of calculation)
-status    : Engineering student, Dayananda Sagar College of Engineering (VTU)
-branch    : CSE (IoT), with EEE and engineering mathematics in the mix
-domains   : Cybersecurity | Applied AI/ML | Algorithms | Embedded/IoT
-mission   : Build systems that detect deception, optimise decisions, and sense the real world
-```
+I'm a Computer Science undergraduate at **Dayananda Sagar College of Engineering** (B.E. CSE, IoT & Cybersecurity incl. Blockchain, expected 2029). My work spans constraint optimization, quantum algorithms and applied AI, and I build systems end to end: sensors, backends, dashboards and LLM layers. I have **two patent applications filed** and I'm looking for research-oriented internships at the intersection of AI, optimization and security.
 
-> *yathā śikhā mayūrāṇāṃ nāgānāṃ maṇayo yathā, tadvad vedāṅgaśāstrāṇāṃ **gaṇitaṃ mūrdhani sthitam**.*
-> As the crest on the peacock and the gem on the cobra's hood, so does mathematics stand at the head of all sciences.
-
-I'm an engineering student who works where **security, AI and algorithms meet hardware**. I build end-to-end systems: sensors, backends, dashboards and LLM layers. I also practise competitive programming and CTF binary exploitation to keep my fundamentals sharp.
+> *gaṇitaṃ mūrdhani sthitam*: mathematics stands at the head of all sciences (Vedāṅga Jyotiṣa). My handle, **gaṇitam**, is the Sanskrit word for mathematics, "the science of calculation".
 
 ---
 
-## 🔭 My Current Interests
+## Research Focus
 
-- Interview and identity integrity: multi-signal fraud forensics using AI + cybersecurity
-- QUBO and combinatorial optimisation for real-world decision problems
-- Policy DSLs and compilers (rule engines that compile to enforceable checks)
-- LLM copilots and agentic AI layered over deterministic engines
-- Low-level systems: x86-64 assembly, binary exploitation, CTF
-- IoT + ML pipelines: ESP32, MQTT, edge-to-cloud intelligence
+- **Constraint optimization:** 0–1 integer programming, OR-Tools CP-SAT, fairness metrics (Jain's index, Gini coefficient)
+- **QUBO and quantum algorithms:** oracle-based algorithms (Deutsch–Jozsa, Bernstein–Vazirani), Qiskit simulation
+- **Applied AI:** GRU classifiers, TF-IDF, LLM integration, metaheuristic optimization
+- **IoT and cyber-physical systems:** ESP32, MQTT, edge-to-cloud pipelines
+- **Security:** forensic-security systems, DSL compilers with compliance checks, on-premises data privacy
 
 ---
 
-## 🚀 Featured Projects
+## Research & Experience
+
+| Role | Where | Focus |
+|---|---|---|
+| R&D Intern, Optimization Systems | Co-mentored by faculty from IIT Bombay and BIT Mesra | NP-hard scheduling as a 0–1 ILP (OR-Tools CP-SAT), equity scored with Jain's index and Gini |
+| Research Intern | Tata Steel | Vehicle-coordination and workforce-automation systems for plant operations (in active development) |
+| Research Intern, Quantum Computing | JNCASR, under a Senior Professor | Oracle-based quantum algorithms: Deutsch–Jozsa and Bernstein–Vazirani, circuit and gate design |
+| Research Collaborator | Co-authoring with a Head of Cybersecurity at a Bengaluru engineering college | Manuscript in preparation on medical document annotation with semantic AI and LLMs (GRU classifier, Lion Optimization) |
+| Technical Intern | Akshara Foundation | Digital infrastructure and educational content workflows across Karnataka |
+
+---
+
+## Patents (Indian Patent Office, applications filed)
+
+Filed with the HOD, Department of CSE, DSCE.
+
+- **Concept-to-Choreography Compiler:** an offline, teacher-centric system that generates classroom choreography, with voice feedback and local-language support for low-connectivity rural schools
+- **Closed-loop clinical trial monitoring:** a sensor-driven architecture for automated patient monitoring, with device-triggered cohort reassignment formulated as a QUBO problem
+
+---
+
+## Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Interview Integrity OS](https://github.com/ayush-ganitam/invigilation-system)** | Interview fraud forensics. Three detection engines (voice/video, system/kernel, text/behaviour) feed a fusion engine; includes a policy DSL. | React, Electron, FastAPI, WebSockets, WebRTC |
-| **[SmartRoots / NeuroVPDhara](https://github.com/ayush-ganitam/NeuroVPDharaCore)** | IoT smart irrigation with a live dashboard and a Gemini-powered chatbot ("Shakti"). | ESP32, MQTT, Firebase, FastAPI, React |
-| **[AI Clinical Trial Optimiser](https://github.com/ayush-ganitam/Q-Cohort)** | HACK4SOC 3.0 (team *The Collapse Architects*): survival analysis, QUBO cohort optimisation, IoT bio-monitoring, DSL compiler with compliance checks. | Python, Qiskit Aer, ESP32 + MAX30102 |
-| **[Expert Knowledge Copilot](https://github.com/ayush-ganitam/expert-knowledge-copilot)** | AI copilot for expert knowledge retrieval. | JavaScript |
+| **[Campus Invigilation Optimization System](https://github.com/ayush-ganitam/invigilation-system)** | Duty allocation as an NP-hard 0–1 ILP solved with CP-SAT. Equity is validated by Jain's index and Gini, and an independent verifier re-checks every hard constraint. Runs fully on-premises. | Python, OR-Tools, JavaScript, Docker |
+| **[Q-Cohort](https://github.com/ayush-ganitam/Q-Cohort)** | Clinical-trial cohort selection over genomic profiles (TCGA-BRCA) as a QUBO problem, simulated in Qiskit Aer. Includes a DSL compiler with ICH E6 / 21 CFR checks and a live MAX30102 telemetry bridge. | Python, FastAPI, Qiskit, React, ESP32 |
+| **[NeuroVPDhara Core](https://github.com/ayush-ganitam/NeuroVPDharaCore)** | Smart irrigation prototype field-tested on a farm in Hoskote: ESP32 nodes, TLS-secured MQTT, a dashboard with 24-hour trends and alerts, and a Gemini-powered advisor. | ESP32, MQTT, FastAPI, Firebase, React |
 
 ---
 
-## 🛠️ Languages and Tools
+## Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,react,fastapi,nodejs,electron,vite,firebase,arduino,linux,bash,git,github,tensorflow,sklearn,figma&perline=10" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,react,nodejs,fastapi,electron,tailwind,firebase,sqlite,docker,git,github,linux,arduino&perline=9" alt="Skills" />
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayush-ganitam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-ganitam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=ayush-ganitam&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
-</div>
+| Area | Tools |
+|---|---|
+| Languages | Python · Java · C++ · C · JavaScript · Assembly (ARM/x86) |
+| Optimization and quantum | OR-Tools CP-SAT · Integer/Constraint Programming · QUBO · Qiskit |
+| AI/ML | Deep learning (GRU) · TF-IDF · LLM integration · Genomic data analytics |
+| Backend and web | FastAPI · Node.js · React · Electron · Tailwind CSS · REST · WebSockets · SQLite · Firebase |
+| Hardware and systems | ESP32 · Arduino · MQTT · Cyber-physical systems · Linux · Docker · Git |
 
 ---
 
-## 🎯 Currently
+## Achievements
 
-- 🔐 Expanding Interview Integrity OS with more detection engines and an LLM layer
-- 📚 Data Structures with Applications (stacks, queues, recursion), plus Codeforces graph problems
-- 🧪 CTF binary exploitation and x86-64 assembly analysis
+- Only first-year mentor (AI and developer tools) at the Athernex national-level hackathon
+- GeekStreak60 global challenge: 60+ consecutive days of algorithm practice (graphs, DP, data structures)
+- Regional round, NXT WAVE AI Impact 48-hour buildathon
+- Engineering workshop hosted by IIT Bombay and IISc Bengaluru
+- Core member of ByteXync Tech Club; organised peer code sprints and worked with NGOs
+- Active in hackathons and contests: Zerodha, CodeChef, LeetCode, Codeforces
+- Certifications: CompTIA Cybersecurity track (in progress), Java Programming Specialist (Skillsoft)
+
+---
+
+## Currently
+
+- Building **Interview Integrity OS**: interview-fraud forensics with multi-engine detection and an LLM layer (in development)
+- Taking the Campus Invigilation Optimization System toward campus deployment
+- Researching oracle-based quantum algorithms
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=ayush-ganitam&style=flat-square&color=00f0ff)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=90&section=footer" width="100%" alt="footer" />
 
 </div>
